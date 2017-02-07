@@ -1,0 +1,24 @@
+{
+  "name": "slack-channel-to-emails",
+  "version": "0.0.1",
+  "description": "Take slack channel and list all emails of non-inactive members",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ocelotsloth/slack-channel-to-emails.git"
+  },
+  "author": "Mark Stenglein",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ocelotsloth/slack-channel-to-emails/issues"
+  },
+  "homepage": "https://github.com/ocelotsloth/slack-channel-to-emails#readme",
+  "dependencies": {
+    "@slack/client": "^3.8.1",
+    "config": "^1.25.1",
+    "js-yaml": "^3.8.1"
+  }
+}

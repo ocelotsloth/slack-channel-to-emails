@@ -1,0 +1,3 @@
+# Use to set the API keys locally
+slack:
+    token: 'insert token here'

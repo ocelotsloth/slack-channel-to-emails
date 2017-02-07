@@ -1,0 +1,3 @@
+# Slack API Docs
+slack:
+    token: 'override in local.yaml'
